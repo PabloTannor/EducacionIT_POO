@@ -1,0 +1,15 @@
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\bin\Debug\net8.0\Clase1.exe
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\bin\Debug\net8.0\Clase1.deps.json
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\bin\Debug\net8.0\Clase1.runtimeconfig.json
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\bin\Debug\net8.0\Clase1.dll
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\bin\Debug\net8.0\Clase1.pdb
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.AssemblyInfo.cs
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.sourcelink.json
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.dll
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\refint\Clase1.dll
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.pdb
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\Clase1.genruntimeconfig.cache
+C:\Users\Windows\Documents\Proyectos1\EducacionIT_POO\Clase1\obj\Debug\net8.0\ref\Clase1.dll
