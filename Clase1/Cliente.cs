@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace Clase1
 {
-    public class Cliente
+    public class Cliente : Persona
     {
-        int IdCliente;
-        public string Nombre;
-        string Apellido;
-        string NroDocumento;
-        string TipoDocumento;
-        string TpoPersona;
-        int Edad;
-        string Direccion;
-        string Telefono;
+        public int idCliente { get; set; }
+        public string CUIT { get; set; }
+        
+        public DateTime fechaDeAlta { get; set; }
 
+        public double saldoCredito { get; set; }
+
+        public override void enviarMensaje(string texto)
+        {
+            Console.WriteLine($"Enviando mensaje por Email {texto}");
+        }
     }
 }

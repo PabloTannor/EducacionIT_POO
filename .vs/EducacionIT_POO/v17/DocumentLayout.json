@@ -3,60 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2642926A-42E8-4616-A2B8-B61F8C2B57CD}|Banco\\Banco.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\banco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2642926A-42E8-4616-A2B8-B61F8C2B57CD}|Banco\\Banco.csproj|solutionrelative:banco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\clase1\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2642926A-42E8-4616-A2B8-B61F8C2B57CD}|Banco\\Banco.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\banco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2642926A-42E8-4616-A2B8-B61F8C2B57CD}|Banco\\Banco.csproj|solutionrelative:banco\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2642926A-42E8-4616-A2B8-B61F8C2B57CD}|Banco\\Banco.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\banco\\banco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2642926A-42E8-4616-A2B8-B61F8C2B57CD}|Banco\\Banco.csproj|solutionrelative:banco\\banco.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\clase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\clase1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\clase1\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\moneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\clase1\\icoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\icoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\clase1\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|c:\\users\\windows\\documents\\proyectos1\\educacionit_poo\\clase1\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA8CA4F9-8456-4D8A-83E9-17440FFD732F}|Clase1\\Clase1.csproj|solutionrelative:clase1\\ideveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,181 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Banco",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Banco\\Banco.csproj",
-              "RelativeDocumentMoniker": "Banco\\Banco.csproj",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Banco\\Banco.csproj",
-              "RelativeToolTip": "Banco\\Banco.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T22:54:29.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Banco\\Form1.cs",
-              "RelativeDocumentMoniker": "Banco\\Form1.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Banco\\Form1.cs",
-              "RelativeToolTip": "Banco\\Form1.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAIAAAA",
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Clase1\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Utilidades.cs",
+              "RelativeToolTip": "Clase1\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T22:52:50.005Z",
+              "WhenOpened": "2024-05-19T20:42:21.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Banco\\Form1.cs",
-              "RelativeDocumentMoniker": "Banco\\Form1.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Banco\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Banco\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T22:48:19.954Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pais.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Pais.cs",
-              "RelativeDocumentMoniker": "Clase1\\Pais.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Pais.cs",
-              "RelativeToolTip": "Clase1\\Pais.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:37:49.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Transaccion.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Transaccion.cs",
-              "RelativeDocumentMoniker": "Clase1\\Transaccion.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Transaccion.cs",
-              "RelativeToolTip": "Clase1\\Transaccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:37:13.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Usuario.cs",
-              "RelativeDocumentMoniker": "Clase1\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Usuario.cs",
-              "RelativeToolTip": "Clase1\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:35:40.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Empleado.cs",
               "RelativeDocumentMoniker": "Clase1\\Empleado.cs",
               "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Empleado.cs",
               "RelativeToolTip": "Clase1\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:34:06.192Z"
+              "WhenOpened": "2024-05-19T20:23:59.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Sucursal.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Sucursal.cs",
-              "RelativeDocumentMoniker": "Clase1\\Sucursal.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Sucursal.cs",
-              "RelativeToolTip": "Clase1\\Sucursal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ICoordinador.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\ICoordinador.cs",
+              "RelativeDocumentMoniker": "Clase1\\ICoordinador.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\ICoordinador.cs",
+              "RelativeToolTip": "Clase1\\ICoordinador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:32:22.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Tarjeta.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Tarjeta.cs",
-              "RelativeDocumentMoniker": "Clase1\\Tarjeta.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Tarjeta.cs",
-              "RelativeToolTip": "Clase1\\Tarjeta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:31:32.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Moneda.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Moneda.cs",
-              "RelativeDocumentMoniker": "Clase1\\Moneda.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Moneda.cs",
-              "RelativeToolTip": "Clase1\\Moneda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:31:18.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Producto.cs",
-              "RelativeDocumentMoniker": "Clase1\\Producto.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Producto.cs",
-              "RelativeToolTip": "Clase1\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:31:08.067Z",
+              "WhenOpened": "2024-05-19T20:16:07.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CuentaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\CuentaBancaria.cs",
-              "RelativeDocumentMoniker": "Clase1\\CuentaBancaria.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\CuentaBancaria.cs",
-              "RelativeToolTip": "Clase1\\CuentaBancaria.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFcAAAAJAAAA",
+              "Title": "IDeveloper.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\IDeveloper.cs",
+              "RelativeDocumentMoniker": "Clase1\\IDeveloper.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\IDeveloper.cs",
+              "RelativeToolTip": "Clase1\\IDeveloper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:30:32.276Z",
+              "WhenOpened": "2024-05-19T20:00:14.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Cliente.cs",
-              "RelativeDocumentMoniker": "Clase1\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Cliente.cs",
-              "RelativeToolTip": "Clase1\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAYAAAA",
+              "DocumentIndex": 2,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Profesor.cs",
+              "RelativeDocumentMoniker": "Clase1\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Profesor.cs",
+              "RelativeToolTip": "Clase1\\Profesor.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:29:40.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Program.cs",
-              "RelativeDocumentMoniker": "Clase1\\Program.cs",
-              "ToolTip": "C:\\Users\\Windows\\Documents\\Proyectos1\\EducacionIT_POO\\Clase1\\Program.cs",
-              "RelativeToolTip": "Clase1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T14:27:21.833Z",
+              "WhenOpened": "2024-05-19T19:14:16.369Z",
               "EditorCaption": ""
             }
           ]

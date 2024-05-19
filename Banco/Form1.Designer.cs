@@ -104,7 +104,7 @@
             label4.Size = new Size(31, 15);
             label4.TabIndex = 7;
             label4.Text = "Tipo";
-            label4.Click += label4_Click;
+           
             // 
             // button1
             // 

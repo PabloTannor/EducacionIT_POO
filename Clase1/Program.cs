@@ -4,6 +4,16 @@
     {
         static void Main(string[] args)
         {
+            Profesor profesor = new Profesor();
+
+            Cliente persona = new Cliente();
+            persona.Nombre = "Pedro";
+
+            GenerarCarnet(persona);
+            
+            Console.WriteLine(persona.NroDocumento);
+
+
             Cliente cliente1 = new Cliente();
             cliente1.Nombre = "Pepe";
 
@@ -17,6 +27,11 @@
 
             Console.WriteLine(cuenta3.MostrarDatos());
 
+        }
+
+        static void GenerarCarnet(Persona persona)
+        {
+            //general carnet;
         }
     }
 }
